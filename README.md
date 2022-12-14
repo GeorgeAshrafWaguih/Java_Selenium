@@ -1,2 +1,2 @@
 # Java_Selenium
-UI Automation using Selenium with Java
+UI Automation using Selenium with Java using POM
